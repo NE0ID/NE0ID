@@ -14,9 +14,10 @@ Used language :
 | Python            | C++            |
 | HTML/CSS          | Rust           |
 | Javascript        | Java           |
-| Shell             |                |
-| Puppet            |                |
+| Shell             | Assembler      |
+| Puppet            | Web Assembler  |
+| SASS/SCSS         | Kotlin         |
 
 My web CV : https://github.com/NE0ID/webCV
-Ou pour voir d'autre projets : https://github.com/NE0ID/projects_highlights
+Or to view other projects : https://github.com/NE0ID/projects_highlights
 I play video games or draw in my free time.
